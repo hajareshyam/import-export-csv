@@ -1,4 +1,4 @@
-const { Parser } = require('./node_modules/json2csv');
+const { Parser } = require('json2csv');
 var fs = require("fs");
 
 var export2Csv = (data,options) => {

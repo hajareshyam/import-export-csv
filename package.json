@@ -1,0 +1,34 @@
+{
+  "name": "import-export-csv",
+  "version": "1.0.1",
+  "description": "This package is used to import csv as well as export csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hajareshyam/import-export-csv.git"
+  },
+  "keywords": [
+    "import",
+    "Export",
+    "Import csv",
+    "Export csv",
+    "csv import in node",
+    "csv export in node",
+    "csv node",
+    "export import nodejs",
+    "export npm package",
+    "npm import package"
+  ],
+  "author": "Shyam Hajare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hajareshyam/import-export-csv/issues"
+  },
+  "homepage": "https://github.com/hajareshyam/import-export-csv#readme",
+  "dependencies": {
+    "json2csv": "^4.5.1"
+  }
+}
